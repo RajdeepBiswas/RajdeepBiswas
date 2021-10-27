@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajdeepBiswas
-- 👀 I’m interested in all things Big Data and Machine Learning
-- 🌱 I’m currently learning to talk less and listen more
-- 💞️ I’m looking to collaborate on exciting open source Data and/or AI/ML projects
+- 👀 Am interested in all things Big Data and Machine Learning
+- 🌱 Am currently learning to talk less and listen more
+- 💞️ Am looking to collaborate on exciting open source Data and/or AI/ML projects
 - 📫 How to reach me: Send a request on LinkedIn-> https://www.linkedin.com/in/rajdeepbiswas/
 
 <!---
