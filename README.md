@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajdeepBiswas
 - 👀 Am interested in all things Big Data and Machine Learning
-- 🌱 Am currently learning to talk less and listen more
-- 💞️ Am looking to collaborate on exciting open source Data and/or AI/ML projects
-- 📫 How to reach me: Send a request on LinkedIn-> https://www.linkedin.com/in/rajdeepbiswas/
+- 🌱 If you catch me outside of work, I am an enthusiastic cook - and an avid lover of pool and cricket.
+- 💞️ Am looking to collaborate on Big Data and Data Science projects
+- 📫 Contact: LinkedIn-> https://www.linkedin.com/in/rajdeepbiswas/ Email-> rajdeepbiswasds@gmail.com 
 
 <!---
 RajdeepBiswas/RajdeepBiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
